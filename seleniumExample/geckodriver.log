@@ -1,0 +1,4 @@
+1491226950256	geckodriver	INFO	Listening on 127.0.0.1:51155
+1491226952003	mozprofile::profile	INFO	Using profile path C:\Users\pavamana\AppData\Local\Temp\rust_mozprofile.ykziNkjG7zNG
+1491226952003	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Firefox Developer Edition\firefox.exe with args []
+1491226952035	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51161
