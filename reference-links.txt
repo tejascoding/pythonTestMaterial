@@ -1,0 +1,16 @@
+https://docs.pytest.org/en/latest/
+
+
+http://pythontesting.net/framework/pytest/pytest-introduction/
+
+
+http://nose.readthedocs.io/en/latest/writing_tests.html
+
+
+http://selenium-python.readthedocs.io/
+
+
+https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137
+
+
+
